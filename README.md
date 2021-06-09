@@ -1,7 +1,7 @@
 # Global Game Jam 2018 - Transmission
 
 ## Description
-The is the game that my team and I created during the GGJ of 2018.
+This the game that my team and I created during the GGJ of 2018.
 
 ## Authors
  - Lucas Benkemoun - [Github](https://github.com/LeBenki)
